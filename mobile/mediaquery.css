@@ -1,0 +1,63 @@
+@media screen and (max-width: 520px) {
+    #top li{
+       	font-size: 30px;
+    }
+
+    #top img{
+		width:60%;
+    }
+
+    .list{
+		font-size: 15px;
+    }
+
+    .coo{
+
+    	font-size: 15px;
+    }
+    #logo img{
+	
+		width:60%;
+
+    }
+    #forgot{
+
+    	font-size: 20px;
+    }
+
+    #knop{
+
+		font-size: 25px;
+    }
+	.error{
+
+		font-size: 15px;
+	}
+	
+	#info p{
+
+		font-size: 37px;
+	}
+	.days{
+
+		font-size: 28px;
+		padding-top: 8px
+	}
+	#logout{
+
+		font-size: 28px;
+		padding-top: 8px
+	}
+	.montitle{
+
+		font-size: 20px;
+	}
+	.bot img{
+
+		width: 60%;
+	}
+	#bottom{
+	
+		padding-bottom:15px;
+	}
+}
