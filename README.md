@@ -1,6 +1,6 @@
 # Restaurant Platform
 
-# Creators
+## Creators
 
 **Christof Vanoppen** - Front-end
 
