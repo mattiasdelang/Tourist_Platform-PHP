@@ -1,5 +1,5 @@
 # Restaurant Platform
-==========
+
 # Creators
 
 **Christof Vanoppen** - Front-end
@@ -8,7 +8,7 @@
 
 **Dieter Meys** - Back-end & Front-end
 
-## Explaination
+## Explanation
 
 We made this platform for the course: Project 1.
 
